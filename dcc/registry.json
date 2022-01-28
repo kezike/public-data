@@ -23,6 +23,11 @@
         "name": "Georgia Tech Center for 21st Century Universities",
         "location": "Atlanta, GA, USA",
         "url": "https://c21u.gatech.edu"
+     },
+     "did:web:ezike.io": {
+        "name": "Kayode Ezike",
+        "location": "New York, NY, USA",
+        "url": "https://ezike.io"
      }
   }
 }
